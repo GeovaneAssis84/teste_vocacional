@@ -1,0 +1,512 @@
+{
+  "Realista": {
+    "explicacao": "Pessoas com perfil Realista são práticas e \"mão na massa\". Gostam de atividades que envolvem o uso de ferramentas, máquinas, ou o trabalho ao ar livre. Preferem soluções concretas e têm habilidades mecânicas ou atléticas.",
+    "links": [
+      {
+        "titulo": "Engenharia Mecânica",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/engenharia-mecanica"
+      },
+      {
+        "titulo": "Agronomia",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/agronomia"
+      },
+      {
+        "titulo": "Medicina Veterinária",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/medicina-veterinaria"
+      },
+      {
+        "titulo": "Gastronomia",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/gastronomia"
+      },
+      {
+        "titulo": "Educação Física",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/educacao-fisica"
+      },
+      {
+        "titulo": "Engenharia Civil",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/engenharia-civil"
+      },
+      {
+        "titulo": "Marcenaria",
+        "url": "https://www.vestiborg.com.br/marcenaria"
+      },
+      {
+        "titulo": "Pilotagem de Aeronaves",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/pilotagem-profissional-de-aeronaves"
+      },
+      {
+        "titulo": "Zootecnia",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/zootecnia"
+      },
+      {
+        "titulo": "Bombeiro",
+        "url": "https://www.guiadacarreira.com.br/carreira/bombeiro/"
+      },
+      {
+        "titulo": "Geologia",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/geologia"
+      },
+      {
+        "titulo": "Técnico em Edificações",
+        "url": "https://www.guiadacarreira.com.br/carreira/tecnico-em-edificacoes/"
+      },
+      {
+        "titulo": "Engenharia de Produção",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/engenharia-de-producao"
+      },
+      {
+        "titulo": "Fisioterapia",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/fisioterapia"
+      },
+      {
+        "titulo": "Paisagismo",
+        "url": "https://www.guiadacarreira.com.br/guia-de-profissoes/paisagismo/"
+      },
+      {
+        "titulo": "Oceanografia",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/oceanografia"
+      },
+      {
+        "titulo": "Engenharia de Pesca",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/engenharia-de-pesca"
+      },
+      {
+        "titulo": "Técnico em Segurança do Trabalho",
+        "url": "https://www.guiadacarreira.com.br/carreira/tecnico-em-seguranca-do-trabalho/"
+      },
+      {
+        "titulo": "Eletricista",
+        "url": "https://www.catho.com.br/carreira-sucesso/guia-de-profissoes/eletricista/"
+      },
+      {
+        "titulo": "Engenharia de Controle e Automação",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/engenharia-de-controle-e-automacao/"
+      }
+    ]
+  },
+  "Investigativo": {
+    "explicacao": "Pessoas com perfil Investigativo são os \"pensadores\". São analíticas, curiosas e orientadas para a pesquisa. Gostam de resolver problemas complexos, trabalhar com ideias e teorias, e se destacam em áreas científicas e acadêmicas.",
+    "links": [
+      {
+        "titulo": "Medicina",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/medicina"
+      },
+      {
+        "titulo": "Ciência da Computação",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/ciencia-da-computacao"
+      },
+      {
+        "titulo": "Física",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/fisica"
+      },
+      {
+        "titulo": "Biologia",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/ciencias-biologicas"
+      },
+      {
+        "titulo": "Análise e Desenvolvimento de Sistemas",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/analise-e-desenvolvimento-de-sistemas"
+      },
+      {
+        "titulo": "Psicologia",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/psicologia"
+      },
+      {
+        "titulo": "Farmácia",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/farmacia"
+      },
+      {
+        "titulo": "Química",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/quimica"
+      },
+      {
+        "titulo": "Estatística",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/estatistica"
+      },
+      {
+        "titulo": "Ciência de Dados",
+        "url": "https://www.guiadacarreira.com.br/guia-de-profissoes/cientista-de-dados/"
+      },
+      {
+        "titulo": "Economia",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/ciencias-economicas"
+      },
+      {
+        "titulo": "Pesquisador Acadêmico",
+        "url": "https://pt.wikipedia.org/wiki/Pesquisador"
+      },
+      {
+        "titulo": "Astronomia",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/astronomia"
+      },
+      {
+        "titulo": "Engenharia de Software",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/engenharia-de-software"
+      },
+      {
+        "titulo": "Arqueologia",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/arqueologia"
+      },
+      {
+        "titulo": "Filosofia",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/filosofia"
+      },
+      {
+        "titulo": "Matemática",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/matematica"
+      },
+      {
+        "titulo": "Antropologia",
+        "url": "https://www.guiadacarreira.com.br/guia-de-profissoes/antropologia/"
+      },
+      {
+        "titulo": "Perito Criminal",
+        "url": "https://querobolsa.com.br/carreiras-e-profissoes/perito-criminal"
+      },
+      {
+        "titulo": "Biotecnologia",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/biotecnologia"
+      }
+    ]
+  },
+  "Artístico": {
+    "explicacao": "Pessoas com perfil Artístico são os \"criadores\". São expressivas, originais e intuitivas. Gostam de trabalhar em ambientes não estruturados, usando a imaginação e a criatividade para inovar e se expressar.",
+    "links": [
+      {
+        "titulo": "Design Gráfico",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/design-grafico"
+      },
+      {
+        "titulo": "Arquitetura e Urbanismo",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/arquitetura-e-urbanismo"
+      },
+      {
+        "titulo": "Música",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/musica"
+      },
+      {
+        "titulo": "Artes Cênicas (Teatro)",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/artes-cenicas"
+      },
+      {
+        "titulo": "Moda (Design de Moda)",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/design-de-moda"
+      },
+      {
+        "titulo": "Publicidade e Propaganda",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/publicidade-e-propaganda"
+      },
+      {
+        "titulo": "Jornalismo",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/jornalismo"
+      },
+      {
+        "titulo": "Fotografia",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/fotografia"
+      },
+      {
+        "titulo": "Cinema e Audiovisual",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/cinema-e-audiovisual"
+      },
+      {
+        "titulo": "Design de Interiores",
+        "url": "https://www.guiadacarreira.com.br/guia-de-profissoes/design-de-interiores/"
+      },
+      {
+        "titulo": "Escritor",
+        "url": "https://www.catho.com.br/carreira-sucesso/guia-de-profissoes/escritor/"
+      },
+      {
+        "titulo": "Letras",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/letras"
+      },
+      {
+        "titulo": "Artista Plástico",
+        "url": "https://querobolsa.com.br/carreiras-e-profissoes/artista-plastico"
+      },
+      {
+        "titulo": "Dança",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/danca"
+      },
+      {
+        "titulo": "Roteirista",
+        "url": "https://www.guiadacarreira.com.br/carreira/roteirista/"
+      },
+      {
+        "titulo": "Design de Animação",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/design-de-animacao"
+      },
+      {
+        "titulo": "Comunicação Social",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/comunicacao-social/"
+      },
+      {
+        "titulo": "Curadoria de Arte",
+        "url": "https://pt.wikipedia.org/wiki/Curadoria"
+      },
+      {
+        "titulo": "Produção Cultural",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/producao-cultural"
+      },
+      {
+        "titulo": "Tradução e Interpretação",
+        "url": "https://www.guiadacarreira.com.br/guia-de-profissoes/tradutor-e-interprete/"
+      }
+    ]
+  },
+  "Social": {
+    "explicacao": "Pessoas com perfil Social são os \"ajudantes\". São cooperativas, empáticas e generosas. Sentem-se realizadas ao ensinar, ajudar, aconselhar e trabalhar com outras pessoas para o bem-estar coletivo.",
+    "links": [
+      {
+        "titulo": "Enfermagem",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/enfermagem"
+      },
+      {
+        "titulo": "Pedagogia",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/pedagogia"
+      },
+      {
+        "titulo": "Serviço Social",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/servico-social"
+      },
+      {
+        "titulo": "Recursos Humanos",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/recursos-humanos"
+      },
+      {
+        "titulo": "Nutrição",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/nutricao"
+      },
+      {
+        "titulo": "Fonoaudiologia",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/fonoaudiologia"
+      },
+      {
+        "titulo": "Terapia Ocupacional",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/terapia-ocupacional"
+      },
+      {
+        "titulo": "Professor (Licenciaturas)",
+        "url": "https://www.guiadacarreira.com.br/carreira/licenciatura/"
+      },
+      {
+        "titulo": "Relações Internacionais",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/relacoes-internacionais"
+      },
+      {
+        "titulo": "Direito",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/direito"
+      },
+      {
+        "titulo": "Sociologia",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/ciencias-sociais"
+      },
+      {
+        "titulo": "Turismo",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/turismo"
+      },
+      {
+        "titulo": "Terapeuta",
+        "url": "https://www.guiadacarreira.com.br/carreira/terapeuta/"
+      },
+      {
+        "titulo": "Policial",
+        "url": "https://querobolsa.com.br/carreiras-e-profissoes/policial-militar"
+      },
+      {
+        "titulo": "Gerontologia",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/gerontologia"
+      },
+      {
+        "titulo": "Gestão de ONGs",
+        "url": "https://pt.wikipedia.org/wiki/Organiza%C3%A7%C3%A3o_n%C3%A3o_governamental"
+      },
+      {
+        "titulo": "Diplomacia",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/diplomacia"
+      },
+      {
+        "titulo": "Mediação",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/mediacao"
+      },
+      {
+        "titulo": "Psicopedagogia",
+        "url": "https://www.guiadacarreira.com.br/guia-de-profissoes/psicopedagogia/"
+      },
+      {
+        "titulo": "Coach",
+        "url": "https://www.catho.com.br/carreira-sucesso/carreira/desenvolvimento-pessoal/o-que-faz-um-coach-e-como-ele-pode-te-ajudar/"
+      }
+    ]
+  },
+  "Empreendedor": {
+    "explicacao": "Pessoas com perfil Empreendedor são os \"persuasores\". São líderes natos, ambiciosos e assertivos. Gostam de influenciar, persuadir, liderar equipes e assumir riscos para alcançar metas e obter sucesso.",
+    "links": [
+      {
+        "titulo": "Administração",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/administracao"
+      },
+      {
+        "titulo": "Marketing",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/marketing"
+      },
+      {
+        "titulo": "Relações Públicas",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/relacoes-publicas"
+      },
+      {
+        "titulo": "Gestão Comercial",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/gestao-comercial"
+      },
+      {
+        "titulo": "Advogado",
+        "url": "https://querobolsa.com.br/carreiras-e-profissoes/advogado"
+      },
+      {
+        "titulo": "Ciências Políticas",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/ciencia-politica"
+      },
+      {
+        "titulo": "Corretor de Imóveis",
+        "url": "https://www.guiadacarreira.com.br/carreira/corretor-de-imoveis/"
+      },
+      {
+        "titulo": "Gestão de Projetos",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/gestao-de-projetos"
+      },
+      {
+        "titulo": "Comércio Exterior",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/comercio-exterior"
+      },
+      {
+        "titulo": "Produção de Eventos",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/eventos"
+      },
+      {
+        "titulo": "CEO / Diretor Executivo",
+        "url": "https://pt.wikipedia.org/wiki/Diretor_executivo"
+      },
+      {
+        "titulo": "Consultor de Negócios",
+        "url": "https://www.catho.com.br/carreira-sucesso/guia-de-profissoes/consultor-de-negocios/"
+      },
+      {
+        "titulo": "Gerente de Banco",
+        "url": "https://querobolsa.com.br/carreiras-e-profissoes/gerente-de-banco"
+      },
+      {
+        "titulo": "Leiloeiro",
+        "url": "https://www.guiadacarreira.com.br/carreira/leiloeiro/"
+      },
+      {
+        "titulo": "Político",
+        "url": "https://pt.wikipedia.org/wiki/Pol%C3%ADtico"
+      },
+      {
+        "titulo": "Diretor de Cinema",
+        "url": "https://querobolsa.com.br/carreiras-e-profissoes/diretor-de-cinema"
+      },
+      {
+        "titulo": "Gestão Financeira",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/gestao-financeira"
+      },
+      {
+        "titulo": "Headhunter",
+        "url": "https://www.guiadacarreira.com.br/carreira/headhunter/"
+      },
+      {
+        "titulo": "Jornalista (Apresentador)",
+        "url": "https://querobolsa.com.br/carreiras-e-profissoes/apresentador-de-tv"
+      },
+      {
+        "titulo": "Gestão Pública",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/gestao-publica"
+      }
+    ]
+  },
+  "Convencional": {
+    "explicacao": "Pessoas com perfil Convencional são os \"organizadores\". São metódicas, precisas e eficientes. Preferem trabalhar com dados, rotinas claras e em ambientes estruturados, onde podem seguir procedimentos e manter tudo em ordem.",
+    "links": [
+      {
+        "titulo": "Ciências Contábeis",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/ciencias-contabeis"
+      },
+      {
+        "titulo": "Logística",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/logistica"
+      },
+      {
+        "titulo": "Biblioteconomia",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/biblioteconomia"
+      },
+      {
+        "titulo": "Secretariado Executivo",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/secretariado-executivo"
+      },
+      {
+        "titulo": "Ciências Atuariais",
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/ciencias-atuariais"
+      },
+      {
+        "titulo": "Arquivologia",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/arquivologia"
+      },
+      {
+        "titulo": "Analista Financeiro",
+        "url": "https://www.catho.com.br/carreira-sucesso/guia-de-profissoes/analista-financeiro/"
+      },
+      {
+        "titulo": "Técnico em Contabilidade",
+        "url": "https://www.guiadacarreira.com.br/carreira/tecnico-em-contabilidade/"
+      },
+      {
+        "titulo": "Auditor",
+        "url": "https://querobolsa.com.br/carreiras-e-profissoes/auditor"
+      },
+      {
+        "titulo": "Analista de Compliance",
+        "url": "https://www.guiadacarreira.com.br/guia-de-profissoes/analista-de-compliance/"
+      },
+      {
+        "titulo": "Planejador Financeiro",
+        "url": "https://querobolsa.com.br/carreiras-e-profissoes/planejador-financeiro"
+      },
+      {
+        "titulo": "Revisor de Textos",
+        "url": "https://www.catho.com.br/carreira-sucesso/guia-de-profissoes/revisor-de-textos/"
+      },
+      {
+        "titulo": "Oficial de Justiça",
+        "url": "https://www.guiadacarreira.com.br/carreira/oficial-de-justica/"
+      },
+      {
+        "titulo": "Analista de Crédito",
+        "url": "https://querobolsa.com.br/carreiras-e-profissoes/analista-de-credito-e-cobranca"
+      },
+      {
+        "titulo": "Comprador",
+        "url": "https://www.catho.com.br/carreira-sucesso/guia-de-profissoes/comprador/"
+      },
+      {
+        "titulo": "Inspetor de Qualidade",
+        "url": "https://www.guiadacarreira.com.br/carreira/inspetor-de-qualidade/"
+      },
+      {
+        "titulo": "Assistente Administrativo",
+        "url": "https://querobolsa.com.br/carreiras-e-profissoes/assistente-administrativo"
+      },
+      {
+        "titulo": "Controladoria",
+        "url": "https://www.guiadacarreira.com.br/guia-de-profissoes/controller-controladoria/"
+      },
+      {
+        "titulo": "Museologia",
+        "url": "https://guiadoestudante.abril.com.br/profissoes/museologia"
+      },
+      {
+        "titulo": "Despachante Aduaneiro",
+        "url": "https://querobolsa.com.br/carreiras-e-profissoes/despachante-aduaneiro"
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "questionText": "Gosto de manter tudo sob controle e bem planejado.",
+    "type" : "Convencional"
+  },
+  {
+    "questionText": "Prefiro trabalhar com ferramentas ou operar máquinas.",
+    "type": "Realista"
+  },
+  {
+    "questionText": "Tenho facilidade de comunicação e empatia.",
+    "type": "Social"
+  },
+  {
+    "questionText": "Prefiro ambientes formais e rotinas previsíveis.",
+    "type": "Convencional"
+  },
+  {
+    "questionText": "Me interesso por negócios, vendas ou administração.",
+    "type": "Empreendedor"
+  },
+  {
+    "questionText": "Gosto de resolver problemas complexos que exigem raciocínio lógico.",
+    "type": "Investigativo"
+  },
+  {
+    "questionText": "Prefiro trabalhar sozinho em tarefas que exijam concentração.",
+    "type": "Investigativo"
+  },
+  {
+    "questionText": "Gosto de desafios e busco atingir metas ambiciosas.",
+    "type": "Empreendedor"
+  },
+  {
+    "questionText": "Sinto prazer em criar coisas novas, como artes, textos ou projetos visuais.",
+    "type": "Artístico"
+  },
+  {
+    "questionText": "Me interesso por profissões relacionadas à saúde ou educação.",
+    "type": "Social"
+  },
+  {
+    "questionText": "Gosto de inovar em tudo o que faço.",
+    "type": "Artístico"
+  },
+  {
+    "questionText": "Tenho curiosidade por entender como as coisas funcionam.",
+    "type": "Investigativo"
+  },
+  {
+    "questionText": "Gosto de ensinar, orientar ou aconselhar pessoas.",
+    "type": "Social"
+  },
+  {
+    "questionText": "Tenho atenção aos detalhes e sigo procedimentos com facilidade.",
+    "type": "Convencional"
+  },
+  {
+    "questionText": "Sinto-me bem ajudando os outros a resolver problemas.",
+    "type": "Social"
+  },
+  {
+    "questionText": "Tenho interesse por música, artes plásticas, moda ou teatro.",
+    "type": "Artístico"
+  },
+  {
+    "questionText": "Gosto de ambientes com liberdade para expressar minhas ideias.",
+    "type": "Artístico"
+  },
+  {
+    "questionText": "Tenho facilidade em consertar coisas ou montar equipamentos.",
+    "type": "Realista"
+  },
+  {
+    "questionText": "Prefiro trabalhar em equipe do que sozinho.",
+    "type": "Social"
+  },
+  {
+    "questionText": "Tenho facilidade com números, cálculos ou estatísticas.",
+    "type": "Investigativo"
+  },
+  {
+    "questionText": "Me sinto confortável lidando com planilhas, registros ou dados.",
+    "type": "Convencional"
+  },
+  {
+    "questionText": "Sou bom em organizar eventos ou planejar ações.",
+    "type": "Empreendedor"
+  },
+  {
+    "questionText": "Prefiro atividades com menos regras e mais improvisação.",
+    "type": "Artístico"
+  },
+  {
+    "questionText": "Gosto de liderar pessoas e tomar decisões importantes.",
+    "type": "Empreendedor"
+  },
+  {
+    "questionText": "Prefiro ações diretas a discussões teóricas.",
+    "type": "Realista"
+  },
+  {
+    "questionText": "Tenho facilidade para convencer os outros com argumentos.",
+    "type": "Empreendedor"
+  },
+  {
+    "questionText": "Gosto de tarefas bem estruturadas e organizadas.",
+    "type": "Convencional"
+  },
+  {
+    "questionText": "Gosto de ambientes de trabalho mais objetivos e práticos do que formais.",
+    "type": "Realista"
+  },
+  {
+    "questionText": "Me interesso por ciência, tecnologia e descobertas.",
+    "type": "Investigativo"
+  },
+  {
+    "questionText": "Gosto de atividades que exigem esforço físico ou trabalho ao ar livre.",
+    "type": "Realista"
+  }
+]
